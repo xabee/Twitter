@@ -1,0 +1,43 @@
+Xavier Gonzalez
+
+Big Data Management and Analytics
+Session: Apache Spark
+April 13th, 2016
+
+---- Exercice 1 ------------------------------
+setup OK
+
+
+---- Exercice 2 ------------------------------
+
+Result:
+
+Top 10 hashtags (last 5m):
+(20,#DolanTwinsNewVideo)
+(11,#FAMU_RYS16)
+(7,#JuanpaEn15a20)
+(6,#Job)
+(6,#토토)
+(6,#ForaDilmaFueraMaduro)
+(6,#DolanTwinsOnTour)
+(5,#Jobs)
+(5,#TuitUtil)
+(5,#Oaxaca.)
+
+Attached Exercise_2.java
+
+-------- Exercise 3
+
+Result:
+
+...
+-------------------------------------------
+Time: 1461583338000 ms
+-------------------------------------------
+(724559145760772096,omg i   friends lighter  nails  bad  snap chatted   pic httpstcokcijxgjygj,0.05882353,0.05882353,neutral)
+(724559145748176897,rt fact  cry       stress   future   arrived live   present    beautiful,0.04,0.08,negative)
+(724559145752387584,rt factsoup  grateful   good times    faith   bad times stay positive  life    reason  ,0.16666667,0.041666668,positive)
+...
+
+Attached Exercise_3.java
+
